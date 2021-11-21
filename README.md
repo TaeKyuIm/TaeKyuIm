@@ -11,7 +11,7 @@
  
  National Presidental Science Scholarship(2021.03-)
  
- Data Youth Campus(KyungNam University curricurium) (2021.6.27-2021.8.31)
+ Data Youth Campus(Kyungnam University curricurium) (2021.6.27-2021.8.31)
  
  Jominy Hardness prediction service based on AI with Seah Changwon Teuksuegang(2021.8.1-2021.8.31)
  

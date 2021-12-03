@@ -1,6 +1,6 @@
 # TaeKyuIm
  
- B.S YeungNam University Mechanic Engineering & Physics(2017~)
+ B.S Yeungnam University Mechanic Engineering & Physics(2017~)
  
  Interest in fusion with investment techniques and Deep learning, Machine learning
  
@@ -8,6 +8,9 @@
  
  # Career
  major mentor of Mechanic Engineering & Physics in Yeungnam University Admission Office
+ Instagram @yvengers_mentor
+ 
+ Teaching Assistant of Mechanics of Materials(2021.03~2021.06)
  
  National Presidental Science Scholarship(2021.03-)
  

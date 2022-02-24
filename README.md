@@ -2,14 +2,11 @@
  
  B.S Yeungnam University Mechanic Engineering & Physics(2017~)
  
- Interest in fusion with investment techniques and Deep learning, Machine learning
+ Interest in fusion with smart factory and Deep learning, Machine learning
  
- Wanna major in Smart Factory or Smart Materials or Mathmatical Optimization.
+ Specialize in Quantumn Mechanic, Linear Algebra
  
  # Career
- major mentor of Mechanic Engineering & Physics in Yeungnam University Admission Office
- Instagram @yvengers_mentor
- 
  Teaching Assistant of Mechanics of Materials(2021.03~2021.06)
  
  National Presidental Science Scholarship(2021.03-)

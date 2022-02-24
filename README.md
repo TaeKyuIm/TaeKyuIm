@@ -14,10 +14,8 @@
  
  National Presidental Science Scholarship(2021.03-)
  
- Data Youth Campus(Kyungnam University curricurium) (2021.6.27-2021.8.31)
- 
  Jominy Hardness prediction service based on AI with Seah Changwon Teuksuegang(2021.8.1-2021.8.31)
- 
+ (해당 repository: https://github.com/TaeKyuIm/seah_project)  
  # blog
  
  https://blog.naver.com/kyu5787

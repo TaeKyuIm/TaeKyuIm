@@ -6,8 +6,8 @@
  
  Interest in fusion with smart factory and Deep learning, Machine learning
  
- Math : PDE, ODE, Vector Analysis, Linear Algebra, Caculus of Variation, Group Theory, Statistics
- Physics : Classcial Dynamics, Electro-Magentic Dynamics, Quatumn Mechanics, Statistical Mechanics
+ Math : PDE, ODE, Vector Analysis, Linear Algebra, Caculus of Variation, Group Theory, Statistics  
+ Physics : Classcial Dynamics, Electro-Magentic Dynamics, Quatumn Mechanics, Statistical Mechanics  
  Engineering : Mechanics of Vector, Material, Fluid / Automatic Control / Mechanical Design
  
  # Career

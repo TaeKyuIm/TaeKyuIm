@@ -35,8 +35,3 @@
  
  https://blog.naver.com/kyu5787
  
- ## Technology
- 
- AI  
- <img src="https://img.shields.io/badge/Pytorch-#EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
- 

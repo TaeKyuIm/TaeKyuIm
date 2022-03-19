@@ -6,9 +6,6 @@
  
  Interest in fusion with smart factory and Deep learning, Machine learning
  
- Math : PDE, ODE, Vector Analysis, Linear Algebra, Caculus of Variation, Group Theory, Statistics  
- Physics : Classcial Dynamics, Electro-Magentic Dynamics, Quatumn Mechanics, Statistical Mechanics  
- Engineering : Mechanics of Vector, Material, Fluid / Automatic Control / Mechanical Design
  
  # Career
  Teaching Assistant of Mechanics of Materials(2021.03~2021.06)
@@ -23,9 +20,6 @@
  AI와 스마트팩토리, 물리학의 결합에 관심이 많습니다.  
  모든 문제를 automatically하게 해결을 하는 것이 목표입니다.  
  
- 수학 : 상미분-편미분방정식, 벡터해석학, 선형대수학, 변분법, 군론, 통계학 등 공업수학, 수리물리학에서의 내용  
- 물리학 : 해석역학, 전자기학, 양자역학, 열통계역학  
- 공학 : 열역학, 고체역학, 유체역학, 동역학, 자동제어, 기계설계 등  
  
  ## 커리어  
  고체역학 T.A 조교(2021.3월-2021.6월)  

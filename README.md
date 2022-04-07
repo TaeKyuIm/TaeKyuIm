@@ -1,6 +1,4 @@
 # TaeKyuIm
-
-## Motto : 귀찮다. 컴퓨터가 대신 해줬으면 좋겠다.  
  
  B.S Yeungnam University Mechanic Engineering & Physics(2017~)
  

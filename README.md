@@ -14,9 +14,12 @@
  (해당 repository: https://github.com/TaeKyuIm/seah_project)  
  
  ## 자기소개
- 영남대학교 기계공학부(물리학 복수전공)  
- AI와 스마트팩토리, 물리학의 결합에 관심이 많습니다.  
- 모든 문제를 automatically하게 해결을 하는 것이 목표입니다.  
+ 영남대학교 기계공학부(물리학 복수전공)
+ 관심분야 : Industrial AI, Material AI
+ Skill
+ - ML, DL
+ - django
+ - Docker, Kubernetes
  
  
  ## 커리어  

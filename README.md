@@ -28,4 +28,4 @@
  AI기반 특수강 경도 예측 보조 시스템(세아창원특수강)  
  
  ## blog
- blog.naver.com/kyu5787
+ https://blog.naver.com/kyu5787

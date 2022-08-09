@@ -18,8 +18,11 @@
  관심분야 : Industrial AI, Material AI  
  Skill
  - ML, DL
- - django
- - Docker, Kubernetes
+ - Industrial ML / DL
+ 
+ Now Studying
+ - Operation Research
+ - mysql
  
  
  ## 커리어  

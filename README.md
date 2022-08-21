@@ -23,10 +23,15 @@
  Now Studying
  - Operation Research
  - mysql
- 
+ - django / django-restframework
+ - Stocks / Investment
  
  ## 커리어  
  고체역학 T.A 조교(2021.3월-2021.6월)  
  대통령과학장학생(2021년 3월-)  
  AI기반 특수강 경도 예측 보조 시스템(세아창원특수강)  
+ 
+ ## 블로그
+ https://blog.naver.com/kyu5787
+ 
  

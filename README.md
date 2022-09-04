@@ -11,9 +11,9 @@
  AI기반 특수강 경도 예측 보조 시스템(세아창원특수강)  
  
  ## Skills
- DataScience : pandas, numpy
- Machine Learning : scikit-learn, catboost, lightgbm, xgboost
- Deep Learning : tensorflow, pytorch
+ DataScience : pandas, numpy    
+ Machine Learning : scikit-learn, catboost, lightgbm, xgboost    
+ Deep Learning : tensorflow, pytorch    
  
  ## 블로그
  https://blog.naver.com/kyu5787  

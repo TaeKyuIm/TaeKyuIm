@@ -1,26 +1,16 @@
-# TaeKyuIm
- 
- B.S Yeungnam University Mechanic Engineering & Physics(2017~)
- 
- Interest in fusion with smart factory and Deep learning, Machine learning
- 
- 
- ## 커리어  
- 영남대학교 기계공학부 고체역학 T.A 조교(2021.3월-2021.6월)  
- 대통령과학장학생(2021년 3월-)  
- AI기반 특수강 경도 예측 보조 시스템(세아창원특수강)(2021.07-2021.08)  
- 멋쟁이사자처럼 영남대학교 Backend 트랙(2022.03-2022.08)
- 
- ## Skills
- DataScience : pandas, numpy    
- Machine Learning : scikit-learn, catboost, lightgbm, xgboost    
- Deep Learning : tensorflow, pytorch    
- 
- ## Now Studying
- Machine Learning + Deep Learning : 논문 구현 및 kaggle dataset을 활용한 실제 적용  
- Backend : django / djangorestframework 통해 restful api, crud 모델 등 연습중입니다.
- 
- ## 블로그(코딩x)
- https://blog.naver.com/kyu5787  
- 일상 주제등을 다룹니다. 지금은 블챌 열심히 쓰는 중~
- 
+![임태규포트폴리오-01](https://user-images.githubusercontent.com/78799904/188536387-5b116091-eef5-4875-b8b4-3c926957a82f.png)
+![임태규포트폴리오-02](https://user-images.githubusercontent.com/78799904/188536396-2b189ffb-c3cd-4c95-a08c-76ea72599edc.png)
+![임태규포트폴리오-03](https://user-images.githubusercontent.com/78799904/188536398-b44a4c89-d1cb-4c8f-8a5d-02b416028b08.png)
+![임태규포트폴리오-04](https://user-images.githubusercontent.com/78799904/188536400-efeba68e-b9a1-4efc-84f8-f3e664ae4533.png)
+![임태규포트폴리오-05](https://user-images.githubusercontent.com/78799904/188536403-73d7d444-e962-4b67-a19a-711befedb0b0.png)
+![임태규포트폴리오-06](https://user-images.githubusercontent.com/78799904/188536405-74fd0243-3af5-4e36-8818-acb17bedb368.png)
+![임태규포트폴리오-07](https://user-images.githubusercontent.com/78799904/188536406-12a1ba8a-a3a1-4197-a589-176895e19635.png)
+![임태규포트폴리오-08](https://user-images.githubusercontent.com/78799904/188536409-de37e015-6d53-4693-a5a8-b9d59b942ca5.png)
+![임태규포트폴리오-09](https://user-images.githubusercontent.com/78799904/188536414-61d578ac-4cb7-4f3a-b446-bb6e0dd9145f.png)
+![임태규포트폴리오-10](https://user-images.githubusercontent.com/78799904/188536415-9747f27b-6e4f-4f41-a027-9d62b9f07278.png)
+![임태규포트폴리오-11](https://user-images.githubusercontent.com/78799904/188536417-f56e7f45-00d7-48e9-88b9-98821171278a.png)
+![임태규포트폴리오-12](https://user-images.githubusercontent.com/78799904/188536418-a6f1b6ca-3d41-4673-821d-ebcf311533c6.png)
+![임태규포트폴리오-13](https://user-images.githubusercontent.com/78799904/188536420-0fe20946-0f85-4a00-95a1-7151beeb63dc.png)
+![임태규포트폴리오-14](https://user-images.githubusercontent.com/78799904/188536422-b002b662-71c7-45d7-b328-0fc335199947.png)
+![임태규포트폴리오-15](https://user-images.githubusercontent.com/78799904/188536424-fd0e3861-d9ec-4998-ad3d-f8859343a312.png)
+![임태규포트폴리오-16](https://user-images.githubusercontent.com/78799904/188536425-4322d62b-15d9-42a6-b61e-5de98cfa9fd9.png)

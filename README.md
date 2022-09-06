@@ -1,4 +1,4 @@
-![임태규포트폴리오-01](https://user-images.githubusercontent.com/78799904/188536387-5b116091-eef5-4875-b8b4-3c926957a82f.png)
+![임태규포트폴리오-01](https://user-images.githubusercontent.com/78799904/188541562-a3c587da-a0e7-47a6-a7a7-8fe5523332c3.png)
 ![임태규포트폴리오-02](https://user-images.githubusercontent.com/78799904/188536396-2b189ffb-c3cd-4c95-a08c-76ea72599edc.png)
 ![임태규포트폴리오-03](https://user-images.githubusercontent.com/78799904/188536398-b44a4c89-d1cb-4c8f-8a5d-02b416028b08.png)
 ![임태규포트폴리오-04](https://user-images.githubusercontent.com/78799904/188536400-efeba68e-b9a1-4efc-84f8-f3e664ae4533.png)

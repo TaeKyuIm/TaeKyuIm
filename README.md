@@ -16,7 +16,7 @@
 ![임태규포트폴리오-16](https://user-images.githubusercontent.com/78799904/188536425-4322d62b-15d9-42a6-b61e-5de98cfa9fd9.png)
 
 ## About Me(개발 X)
-블로그 : blog.naver.com/kyu5787 - 일상기록  
-인스타그램 : instagram.com/kyu_5787  
+블로그 : https://blog.naver.com/kyu5787 - 일상기록  
+인스타그램 : https://instagram.com/kyu_5787  
 투자공부 : https://different-uranium-6e0.notion.site/39775a0c013a47ebaf9211bac038653b 
 반증가능하고, 심리에서 독립적인 투자를 지향합니다 😀

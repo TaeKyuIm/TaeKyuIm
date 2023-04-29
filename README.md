@@ -15,4 +15,8 @@
 ![임태규포트폴리오-15](https://user-images.githubusercontent.com/78799904/188536424-fd0e3861-d9ec-4998-ad3d-f8859343a312.png)
 ![임태규포트폴리오-16](https://user-images.githubusercontent.com/78799904/188536425-4322d62b-15d9-42a6-b61e-5de98cfa9fd9.png)
 
+## Stack  
+# Expert  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+

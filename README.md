@@ -15,8 +15,4 @@
 ![임태규포트폴리오-15](https://user-images.githubusercontent.com/78799904/188536424-fd0e3861-d9ec-4998-ad3d-f8859343a312.png)
 ![임태규포트폴리오-16](https://user-images.githubusercontent.com/78799904/188536425-4322d62b-15d9-42a6-b61e-5de98cfa9fd9.png)
 
-## About Me(개발 X)
-블로그 : https://blog.naver.com/kyu5787 - 일상기록  
-인스타그램 : https://instagram.com/kyu_5787  
-투자공부 : https://different-uranium-6e0.notion.site/39775a0c013a47ebaf9211bac038653b 
-반증가능하고, 심리에서 독립적인 투자를 지향합니다 😀
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">

@@ -1,22 +1,19 @@
-## 포트폴리오 수정중.~
+# 임태규(Taegyu Lim)
 
-## Stack  
-# Expert  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+## Education
+2023.02~2025.02(expected): POSTECH Industrial Management Engineering
+- Laboratory: Factory Intelligence Laboratory
 
-# Intermediate
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge&logo=gurobi&logoColor=white">
+2017.03~2023.02: Yeungnam University Mechanical Engineering(Double Major in Physics), Summa Cum Laude
 
+## Skills
+Machine Learning: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white">
 
-# Interested in  
+Basic Mathematics: Linear Algebra, Differential Equation, Mathematical Statistics, Bayesian Statistics, Linear Programming, Time-series Analysis
 
-<img src="https://img.shields.io/badge/Onnx-005CED?style=for-the-badge&logo=onnx&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+Manufacturing Process Optimization
+
+## Research Topic: Neural Network Training Dynamics
+![슬라이드3](https://github.com/TaeKyuIm/TaeKyuIm/assets/78799904/5a6a4695-6907-4b5a-a83b-6f1a1a3f29c9)
+
+In transfer learning and fine tuning task, there is a problem that which layer should be freezed and unfreezed. My Research topic is find which layer should be fine tunned by neural network parameter analysis. With my research topic, I can apply many open source neural network structure. Recently, the main objective is to apply the research topic to PEFT techniques such as LoRA and QLoRA.

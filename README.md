@@ -14,7 +14,7 @@ Basic Mathematics: Linear Algebra, Differential Equation, Mathematical Statistic
 Manufacturing Process Optimization
 
 ## Interest
-I'm very interested in Autunomous agent based in AI, especially LLM. I want to build no network need AI based autonomous agent.
+I'm very interested in Autonomous Agent based AI, especially LLM, LMM. In manufacturing area, it is important build AI Agent with ANI(Artificial Narrow Intelligence). With my research topic, I can build AI specific to my project with fine tuning to open source model by fitting strictly(No network needed). I want to solve many complex and abstract problem with Agent based on AI specific to my project.
 
 ## Research Topic: Neural Network Training Dynamics
 ![슬라이드3](https://github.com/TaeKyuIm/TaeKyuIm/assets/78799904/5a6a4695-6907-4b5a-a83b-6f1a1a3f29c9)

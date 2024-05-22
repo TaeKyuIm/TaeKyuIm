@@ -1,7 +1,7 @@
 # 임태규(Taegyu Lim)
 
 ## Education
-2023.02~2025.02(expected): POSTECH Industrial Management Engineering
+2023.02~2025.02(expected): Pohang University of Science and Technology Industrial Management Engineering
 - Laboratory: Factory Intelligence Laboratory
 
 2017.03~2023.02: Yeungnam University Mechanical Engineering(Double Major in Physics), Summa Cum Laude
